@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\user\Desktop\oop\lab6\lab6\main.cpp(103,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\Desktop\oop\lab6\lab6\main.cpp(126,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\Desktop\oop\lab6\lab6\main.cpp(129,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  lab6.vcxproj -> C:\Users\user\Desktop\oop\lab6\x64\Debug\lab6.exe
