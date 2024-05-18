@@ -1,0 +1,4 @@
+﻿  lab8.cpp
+C:\Users\user\Desktop\acso\lab8\lab8\lab8.cpp(40,49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\Desktop\acso\lab8\lab8\lab8.cpp(43,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  lab8.vcxproj -> C:\Users\user\Desktop\acso\lab8\x64\Debug\lab8.exe
